@@ -58,7 +58,7 @@ This repository is for demonstration purposes only. The underlying source code i
 
 ## About Us
 
-We are a team dedicated to delivering innovative solutions. For more details about our projects and services, visit our [website](https://hcps.fiu.edu/).
+We are a team dedicated to delivering innovative solutions. For more details about our projects and services, visit our [(https://hcps.fiu.edu/)](https://hcps.fiu.edu/).
 
 ---
 
