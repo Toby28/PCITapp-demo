@@ -46,7 +46,7 @@ Below is the current roadmap for our demo project:
 
 1. **Explore the Images:** Click on the screenshots above for a larger view.
 2. **Learn the Features:** Read the captions to understand what each image represents.
-3. **Contact Us:** For further information or to request a live demo, please reach out to our team at [contact@example.com](mailto:contact@example.com).
+3. **Contact Us:**For additional information or to schedule a live demo, please contact our Lab Director, Dr. Ou Bai, at [obai@fiu.edu].
 
 ---
 
@@ -58,7 +58,7 @@ This repository is for demonstration purposes only. The underlying source code i
 
 ## About Us
 
-We are a team dedicated to delivering innovative solutions. For more details about our projects and services, visit our [website](https://www.example.com).
+We are a team dedicated to delivering innovative solutions. For more details about our projects and services, visit our [website](https://hcps.fiu.edu/).
 
 ---
 
