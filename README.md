@@ -33,14 +33,6 @@ Our demo showcases:
 
 Below is the current roadmap for our demo project:
 
-- [x] Set up repository structure and initial README
-- [x] Add project overview and screenshots
-- [ ] Collect and finalize additional screenshots
-- [ ] Write detailed feature descriptions
-- [ ] Update contact information and live demo scheduling
-- [ ] Review and finalize the demo presentation
-- [ ] Review and finalize the demo presentation
-
 1. **Settings:**
   - [x] Profiles: User’s ID, Training Session ID, and Date of Recording 
   - [x] Profiles and Selection of Decoding Model
@@ -51,7 +43,7 @@ Below is the current roadmap for our demo project:
   - [ ] Online Audio Streaming of a therapy/practice Session (Real-time simulation with Simultaneous Streaming and DPICS coding)
   - [ ] Online Video Streaming of a therapy/practice Session (Real-time simulation with Simultaneous Streaming and DPICS coding)
 
-3. **Text Data Conversion (Speech-to-text or automatic speech recognition, ASR):**
+3. **Text Data Conversion (Speech-to-text and automatic speech recognition(ASR)):**
   - [x] Cloud-based ASR
   - [x] On-Device ASR
   - [ ] On-Device/Cloud-based google translate 
