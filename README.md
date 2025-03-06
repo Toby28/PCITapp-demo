@@ -8,7 +8,7 @@ Welcome to the **PCITapp** repository. This project is a demo of our proprietary
 
 Our demo showcases:
 - **Innovative User Experience:** An intuitive interface and seamless workflow.
-- **Cutting-Edge Technology:** ASR, Dydaic parent-kid speaker recognition, DPICS coding
+- **Cutting-Edge Technology:** ASR, Dyadic parent-child speaker recognition, DPICS coding
 - **Real-World Applications:** For a PCI therapist, DPICS is an essential tool to assess, guide, and enhance parent-child interactions. It ensures therapy is data-driven, effective, and tailored to each family's needs. By using DPICS, therapists can provide structured feedback, improve intervention strategies, and ultimately support better parent-child relationships.
 
 ---
