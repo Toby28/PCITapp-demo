@@ -17,15 +17,17 @@ Our demo showcases:
 
 ### Home Screen
 ![Home Screen](img/Picture1.png)
+
 *The main landing page of our demo application.*
+
+### Dashboard Overview
+![Dashboard Overview](img/Picture2.png)
+
+*A snapshot of the interactive dashboard with key metrics.*
 
 ### Feature Spotlight
 ![Feature Spotlight](images/feature-spotlight.png)
 *An in-depth view of one of our standout features.*
-
-### Dashboard Overview
-![Dashboard Overview](images/dashboard-overview.png)
-*A snapshot of the interactive dashboard with key metrics.*
 
 ---
 
