@@ -18,7 +18,7 @@ Our demo showcases:
 ### Home Screen
 ![Home Screen](img/Picture1.png)
 
-<img src="images/home-screen.png" alt="Home Screen" width="400" />
+<img src="img/Picture1.png" alt="Home Screen" width="400" />
 
 *The main landing page of our demo application.*
 
