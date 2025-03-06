@@ -16,19 +16,21 @@ Our demo showcases:
 ## Screenshots
 
 ### Home Screen
-![Home Screen](img/Picture1.png)
-
 <img src="img/Picture1.png" alt="Home Screen" width="300" />
 
 *The main landing page of our demo application.*
 
 ### Dashboard Overview
-![Dashboard Overview](img/Picture2.png)
+<img src="img/Picture2.png" alt="Dashboard" width="300" />
 
 *A snapshot of the interactive dashboard with key metrics.*
 
 ### Feature Spotlight
-![Feature Spotlight](images/feature-spotlight.png)
+<img src="img/Picture3.png" alt="Dashboard" width="100" />
+<img src="img/Picture4.png" alt="Dashboard" width="100" />
+<img src="img/Picture5.png" alt="Dashboard" width="100" />
+<img src="img/Picture6.png" alt="Dashboard" width="100" />
+
 *An in-depth view of one of our standout features.*
 
 ---
