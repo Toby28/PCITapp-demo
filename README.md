@@ -16,7 +16,7 @@ Our demo showcases:
 ## Screenshots
 
 ### Home Screen
-![Home Screen](img/picture1.png)
+![Home Screen](img/Picture1.png)
 *The main landing page of our demo application.*
 
 ### Feature Spotlight
