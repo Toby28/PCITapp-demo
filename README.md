@@ -26,10 +26,7 @@ Our demo showcases:
 *A snapshot of the interactive dashboard with key metrics.*
 
 ### Feature Spotlight
-<img src="img/Picture3.png" alt="Dashboard" width="100" />
-<img src="img/Picture4.png" alt="Dashboard" width="100" />
-<img src="img/Picture5.png" alt="Dashboard" width="100" />
-<img src="img/Picture6.png" alt="Dashboard" width="100" />
+<img src="img/Picture3.png" alt="Dashboard" width="300" /><img src="img/Picture4.png" alt="Dashboard" width="300" /><img src="img/Picture5.png" alt="Dashboard" width="300" /><img src="img/Picture6.png" alt="Dashboard" width="300" />
 
 *An in-depth view of one of our standout features.*
 
